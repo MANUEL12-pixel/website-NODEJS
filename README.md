@@ -8,12 +8,6 @@ First, clone the repo
 git clone https://github.com/FaztWeb/first-node-express-app
 ```
 
-move to the folder
-
-```sh
-cd first-node-express-app
-```
-
 install dependencies:
 
 ```sh
